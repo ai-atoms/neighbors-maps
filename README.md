@@ -45,5 +45,5 @@ This is in some way analogous to tuning the brightness and contrast of images, a
 Much like contrast adjustment in image processing, choosing different values of beta and gamma can increase the sharpness of some visual features that appear on the Neighbors Maps, possibly resulting in easier training of the CNN.
 
 The figure below shows the effect of variying the values of these parameters. 
-The code to generate this figure is available in ![plots/gamma_beta.py](plots/gamma_beta.py). 
+The code to generate this figure is available in ![plots/gamma_beta.py](plots/plot_gamma_beta.py). 
 ![image](plots/png/gamma_beta.png)
